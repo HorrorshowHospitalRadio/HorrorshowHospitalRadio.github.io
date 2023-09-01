@@ -3,4 +3,5 @@ body {background-color: black;}
 p,
 h1 {
 	color: white;
+	font-family: 'Arial', sans-serif;
 }
