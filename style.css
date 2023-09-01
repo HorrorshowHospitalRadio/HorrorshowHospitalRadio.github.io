@@ -2,6 +2,10 @@
 .center {
   text-align: center;
 }
+div {
+   overflow-wrap: break-word;
+   width: 500px;
+}
 body {
 	background-color: black;
 	font-family: Arial, sans-serif;
