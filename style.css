@@ -1,7 +1,9 @@
 /* here's some style bullshit */
-body {background-color: black;}
+body {
+	background-color: black;
+	font-family: Arial, sans-serif;
+}
 p,
 h1 {
 	color: white;
-	font-family: 'Arial', sans-serif;
 }
