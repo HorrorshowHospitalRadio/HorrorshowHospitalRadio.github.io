@@ -1,4 +1,7 @@
 /* here's some style bullshit */
+.center {
+  text-align: center;
+}
 body {
 	background-color: black;
 	font-family: Arial, sans-serif;
@@ -6,7 +9,4 @@ body {
 p,
 h1 {
 	color: white;
-}
-.center {
-  text-align: center;
 }
