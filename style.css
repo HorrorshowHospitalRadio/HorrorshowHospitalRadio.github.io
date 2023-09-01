@@ -1,10 +1,10 @@
 /* here's some style bullshit */
-.center {
-  text-align: center;
-}
+body{ margin:0 auto; }
 div {
    overflow-wrap: break-word;
    width: 1000px;
+   margin: 0px auto;
+   width:600px;
 }
 body {
 	background-color: black;
