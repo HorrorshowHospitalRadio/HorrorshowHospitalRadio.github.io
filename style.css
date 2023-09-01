@@ -11,6 +11,8 @@ body {
 	font-family: Arial, sans-serif;
 }
 p,
-h1 {
+h1,
+div {
 	color: white;
+	text-align: center;
 }
