@@ -1,4 +1,6 @@
 /* here's some style bullshit */
-p {
-	color: red;
+body {background-color: black;}
+p,
+h1 {
+	color: white;
 }
